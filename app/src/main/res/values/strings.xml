@@ -1,0 +1,20 @@
+<resources>
+    <!-- Login Screen-->
+    <string name="app_name">Freela assistant</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="or_sign_in_with">Or sign in with:</string>
+    <string name="sign_in">Sign in</string>
+    <string name="or_sign_up">Or sign up</string>
+    <string name="sign_up">Sign up</string>
+    <!---->
+    <!-- Sign up screen-->
+    <string name="confirm_password">Confirm password</string>
+    <string name="full_name">Full Name</string>
+    <string name="profession">Profession</string>
+    <!---->
+    <!-- Credits Screen-->
+    <string name="credits">Credits</string>
+    <string name="designers_helpers">Design:</string>
+    <!---->
+</resources>

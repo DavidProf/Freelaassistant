@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login screen-->
+    <string name="app_name">Freela assistant</string>
+    <string name="username">Nome de Usuário</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Registrar</string>
+    <string name="or_sign_in_with">Ou entrar com:</string>
+    <string name="or_sign_up">Ou registre-se:</string>
+    <!---->
+    <!-- Sign up screen-->
+    <string name="confirm_password">Confirmar senha</string>
+    <string name="full_name">Nome Completo</string>
+    <string name="profession">Profissão</string>
+    <!---->
+    <!-- Credits -->
+    <string name="credits">Créditos</string>
+    <string name="designers_helpers">Design:</string>
+    <!---->
+</resources>
